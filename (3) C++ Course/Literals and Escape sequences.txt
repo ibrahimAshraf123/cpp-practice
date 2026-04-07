@@ -1,0 +1,20 @@
+- what is a literal?
+	A literal is a fixed value that you directly write in code.
+
+- can you assign different values to a literal?
+	No, a literal itself cannot change—it is a constant value.
+
+- what are literal types?
+	| Literal Type    | Example         |
+	| --------------- | --------------- |
+	| Integer literal | `100`, `0xFF`   |
+	| Floating-point  | `3.14`, `2e5`   |
+	| Character       | `'a'`           |
+	| String          | `"text"`        |
+	| Boolean         | `true`, `false` |
+	| Null            | `null`, `None`  |
+
+- why do we need escape sequence literals?
+	Escape sequences let you include special characters 
+	inside string or character literals that are otherwise
+	 hard or impossible to type directly.
