@@ -51,6 +51,22 @@ sDate GetDateFromDayOrderInYear(short DaysOrderInYear, short Year)
 	Date.Year = Year;
 	Date.Month = 1;
 
+	while (true)
+	{
+		MonthDays = DaysInAMonth(Date.Month, Year);
+
+		if (RemainingDays > MonthDays)
+		{
+			RemainingDays -= MonthDays;
+			Date.Month++;
+		}
+		else
+		{
+			Date.Day = RemainingDays;
+			break;
+		}
+	}
+	return Date;
 
 }
 
@@ -90,8 +106,10 @@ int main()
 	cout << "\nNumber of Days from the beginning of the year is " << DaysOrderInYear;
 
 	sDate Date;
+	Date = GetDateFromDayOrderInYear(DaysOrderInYear, Year);
+	cout << "\nDate for [" << DaysOrderInYear << "] is: ";
+	cout << Date.Day << "/" << Date.Month << "/" << Date.Year << endl;
 
-	cout << "Hello\n";
 
 
 	system("pause>0");
