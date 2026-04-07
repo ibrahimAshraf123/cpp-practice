@@ -1,99 +1,69 @@
-# 🚀 C++ Mastery Journey
+# C++ Mastery Journey
 
-> *Documenting my path from beginner to expert — one problem at a time.*
-
----
-
-## 👨‍💻 About This Repository
-
-This repository is a living record of my journey to master C++ and algorithmic thinking. It follows the **Programming Advices Roadmap** — a structured, progressive curriculum that builds skills from the ground up through hands-on problem solving.
-
-Each folder contains **~50 problems and their solutions**, covering everything from basic syntax to advanced algorithms. Every solution is written and understood by me, not just copied — this is a learning archive, not a shortcut.
+> Documenting my path from beginner to expert — one problem at a time.
 
 ---
 
-## 📂 Repository Structure
+## About
 
-```
-cpp-practice/
-│
-├── (2) ALGORITHMS PROBLEM SOLVING/      # Core algorithmic thinking & logic building
-├── (3) C++ Course/                      # Foundational C++ syntax, OOP, STL
-├── (4) SOLVING ALGORITHMS & PROBLEMS/   # Intermediate problem solving
-├── (5) Algorithms & Problem-Solving Level 2/   # Step up in complexity
-├── (6) Introduction to Programming Using C++ Level 2/
-├── (7) Algorithms & Problem Solving Level 3/   # Advanced patterns
-├── (8) Algorithms & Problem Solving Level 4/   # Expert-level challenges
-└── Certificates/                        # Earned certifications along the way
-```
+This repository is a living record of my journey to master C++ and algorithmic thinking, following the **Programming Advices Roadmap** — a structured, progressive curriculum built entirely around hands-on problem solving.
 
-Each folder is a **stage** in the roadmap. Problems increase in difficulty progressively.
+Each folder contains around **50 problems and their solutions**, progressing in difficulty across 8 levels. Every solution is written and understood by me. This is a learning archive, not a shortcut.
 
 ---
 
-## 🧠 What's Inside
+## Structure
 
-| Stage | Focus Area | Problems |
-|-------|-----------|----------|
-| Level 2 | Algorithms & Logic | ~50 |
-| C++ Course | Language Fundamentals | ~50 |
-| Level 3 | Intermediate Algorithms | ~50 |
-| Level 4 | Solving & Optimization | ~50 |
-| Level 5 | Advanced Problem Solving | ~50 |
-| Level 6 | C++ Level 2 | ~50 |
-| Level 8 | Expert Algorithms | ~50 |
+| Folder | Focus |
+|--------|-------|
+| `(2) Algorithms Level 1` | Core logic, math problems, basic algorithms |
+| `(3) C++ Level 1` | C++ fundamentals, syntax, functions, arrays |
+| `(4) Advanced Solutions For Algorithms Level 1` | Deeper algorithmic thinking |
+| `(5) Algorithms Level 2` | Intermediate algorithms & patterns |
+| `(6) C++ Level 2` | OOP, pointers, memory, STL |
+| `(7) Algorithms Level 3` | Advanced problem solving |
+| `(8) Algorithms Level 4` | Expert-level challenges |
+| `Certificates` | Earned certifications from completed levels |
 
-**Topics covered include:**
+---
+
+## Topics Covered
+
 - Number theory & math problems
-- String manipulation
-- Arrays & searching algorithms
-- Sorting algorithms (Bubble, Selection, Insertion, Merge, Quick)
-- Recursion & dynamic programming
-- Pattern printing & logic puzzles
-- Functions, pointers, and memory
-- OOP concepts (Classes, Inheritance, Polymorphism)
-- STL (vectors, maps, sets, etc.)
+- String manipulation & pattern printing
+- Arrays, searching & sorting algorithms
+- Recursion & dynamic programming foundations
+- Functions, pointers, and memory management
+- Object-Oriented Programming (Classes, Inheritance, Polymorphism)
+- STL (vectors, maps, sets, algorithms)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech
 
-- **Language:** C++17
-- **IDE:** Visual Studio 2022
-- **Version Control:** Git & GitHub
+- **Language:** C++17  
+- **IDE:** Visual Studio 2022  
 - **Roadmap:** [Programming Advices](https://programmingadvices.com)
 
 ---
 
-## 📈 Progress
+## Progress
 
-- [x] Algorithms & Problem Solving — Level 2
-- [x] C++ Course
-- [x] Solving Algorithms & Problems — Level 4
-- [x] Problem Solving — Level 2
-- [x] Introduction to C++ — Level 2
-- [x] Algorithms — Level 3
-- [x] Algorithms — Level 4
-- [ ] More levels coming...
-
----
-
-## 🎯 Goal
-
-To build a **deep, solid foundation** in C++ and computer science fundamentals — the kind that makes hard problems feel simple. This repo is proof of work, not just a portfolio.
+- [x] Algorithms Level 1
+- [x] C++ Level 1
+- [x] Advanced Solutions For Algorithms Level 1
+- [x] Algorithms Level 2
+- [x] C++ Level 2
+- [x] Algorithms Level 3
+- [x] Algorithms Level 4
+- [ ] More levels in progress...
 
 ---
 
-## 📜 License
+## Goal
 
-This repository is for **educational purposes**. Problems are sourced from the Programming Advices curriculum. Solutions are my own implementations.
+To build a deep, solid foundation in C++ and computer science fundamentals — the kind that makes hard problems feel approachable. This repo is proof of consistent work and deliberate practice.
 
 ---
-
-<div align="center">
 
 *"The expert in anything was once a beginner."*
-
-⭐ Star this repo if you find it useful or inspiring!
-
-</div>
