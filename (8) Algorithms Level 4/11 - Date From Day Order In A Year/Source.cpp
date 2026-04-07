@@ -91,6 +91,8 @@ int main()
 
 	sDate Date;
 
+	cout << "Hello\n";
+
 
 	system("pause>0");
 	return 0;
