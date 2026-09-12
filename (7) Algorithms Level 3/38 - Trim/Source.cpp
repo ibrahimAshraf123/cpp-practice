@@ -19,7 +19,7 @@ string TrimLeft(string S)
 
 string TrimRight(string S)
 {
-	for (short i = S.length(); i >= 0; i--)
+	for (short i = S.length()-1; i >= 0; i--)
 	{
 		if (S[i] != ' ')
 		{
