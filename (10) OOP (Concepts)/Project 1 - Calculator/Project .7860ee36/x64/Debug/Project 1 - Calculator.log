@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\ibrah\OneDrive\Desktop\PROGRAMMING\Programming Advices RoadMap\(10) OOP (Concepts)\Project 1 - Calculator\Source.cpp(32,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ibrah\OneDrive\Desktop\PROGRAMMING\Programming Advices RoadMap\(10) OOP (Concepts)\Project 1 - Calculator\Source.cpp(35,14): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ibrah\OneDrive\Desktop\PROGRAMMING\Programming Advices RoadMap\(10) OOP (Concepts)\Project 1 - Calculator\Source.cpp(40,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ibrah\OneDrive\Desktop\PROGRAMMING\Programming Advices RoadMap\(10) OOP (Concepts)\Project 1 - Calculator\Source.cpp(43,14): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ibrah\OneDrive\Desktop\PROGRAMMING\Programming Advices RoadMap\(10) OOP (Concepts)\Project 1 - Calculator\Source.cpp(48,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ibrah\OneDrive\Desktop\PROGRAMMING\Programming Advices RoadMap\(10) OOP (Concepts)\Project 1 - Calculator\Source.cpp(50,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ibrah\OneDrive\Desktop\PROGRAMMING\Programming Advices RoadMap\(10) OOP (Concepts)\Project 1 - Calculator\Source.cpp(57,14): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+  Project 1 - Calculator.vcxproj -> C:\Users\ibrah\OneDrive\Desktop\PROGRAMMING\Programming Advices RoadMap\(10) OOP (Concepts)\Project 1 - Calculator\x64\Debug\Project 1 - Calculator.exe

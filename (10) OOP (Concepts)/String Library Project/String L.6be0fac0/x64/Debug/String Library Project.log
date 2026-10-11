@@ -1,0 +1,24 @@
+﻿  Source.cpp
+C:\Users\ibrah\OneDrive\Desktop\PROGRAMMING\Programming Advices RoadMap\(10) OOP (Concepts)\String Library Project\Source.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ibrah\OneDrive\Desktop\PROGRAMMING\Programming Advices RoadMap\(10) OOP (Concepts)\String Library Project\clsString.h(38,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\ibrah\OneDrive\Desktop\PROGRAMMING\Programming Advices RoadMap\(10) OOP (Concepts)\String Library Project\clsString.h(43,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\ibrah\OneDrive\Desktop\PROGRAMMING\Programming Advices RoadMap\(10) OOP (Concepts)\String Library Project\clsString.h(54,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\ibrah\OneDrive\Desktop\PROGRAMMING\Programming Advices RoadMap\(10) OOP (Concepts)\String Library Project\clsString.h(195,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\ibrah\OneDrive\Desktop\PROGRAMMING\Programming Advices RoadMap\(10) OOP (Concepts)\String Library Project\clsString.h(333,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\ibrah\OneDrive\Desktop\PROGRAMMING\Programming Advices RoadMap\(10) OOP (Concepts)\String Library Project\clsString.h(360,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\ibrah\OneDrive\Desktop\PROGRAMMING\Programming Advices RoadMap\(10) OOP (Concepts)\String Library Project\clsString.h(400,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+  String Library Project.vcxproj -> C:\Users\ibrah\OneDrive\Desktop\PROGRAMMING\Programming Advices RoadMap\(10) OOP (Concepts)\String Library Project\x64\Debug\String Library Project.exe

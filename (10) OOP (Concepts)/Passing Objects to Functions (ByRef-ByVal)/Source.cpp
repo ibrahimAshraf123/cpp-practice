@@ -1,0 +1,48 @@
+#include "clsA.h";
+#include<iostream>
+
+using namespace std;
+
+//object sent by value, any updates will not be reflected
+// on the original object
+void Fun1(clsA A1)
+{
+
+	A1.x = 100;
+}
+
+
+//object sent by reference, any updates will be reflected
+// on the original object
+void Fun2(clsA& A1)
+{
+
+	A1.x = 200;
+}
+
+
+int main()
+
+{
+	clsA A1;
+
+	A1.x = 50;
+	cout << "\nA.x before calling function1: \n";
+	A1.Print();
+
+
+	//Pass by value, object will not be afected.
+	Fun1(A1);
+	cout << "\nA.x after calling function1 byval: \n";
+	A1.Print();
+
+	//Pass by value, object will be afected.
+	Fun2(A1);
+	cout << "\nA.x after calling function2 byref: \n";
+	A1.Print();
+
+
+	system("pause>0");
+
+}
+

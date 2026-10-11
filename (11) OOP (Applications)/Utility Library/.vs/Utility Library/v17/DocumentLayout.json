@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\OneDrive\\Desktop\\PROGRAMMING\\Programming Advices RoadMap\\(11) OOP (Applications)\\Utility Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39BFFB9F-6433-426C-9D4A-BD5FB7F499CC}|Utility Library.vcxproj|C:\\Users\\ibrah\\OneDrive\\Desktop\\PROGRAMMING\\Programming Advices RoadMap\\(11) OOP (Applications)\\Utility Library\\clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39BFFB9F-6433-426C-9D4A-BD5FB7F499CC}|Utility Library.vcxproj|solutionrelative:clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39BFFB9F-6433-426C-9D4A-BD5FB7F499CC}|Utility Library.vcxproj|C:\\Users\\ibrah\\OneDrive\\Desktop\\PROGRAMMING\\Programming Advices RoadMap\\(11) OOP (Applications)\\Utility Library\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39BFFB9F-6433-426C-9D4A-BD5FB7F499CC}|Utility Library.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39BFFB9F-6433-426C-9D4A-BD5FB7F499CC}|Utility Library.vcxproj|C:\\Users\\ibrah\\OneDrive\\Desktop\\PROGRAMMING\\Programming Advices RoadMap\\(11) OOP (Applications)\\Utility Library\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39BFFB9F-6433-426C-9D4A-BD5FB7F499CC}|Utility Library.vcxproj|solutionrelative:clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsUtil.h",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Desktop\\PROGRAMMING\\Programming Advices RoadMap\\(11) OOP (Applications)\\Utility Library\\clsUtil.h",
+              "RelativeDocumentMoniker": "clsUtil.h",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Desktop\\PROGRAMMING\\Programming Advices RoadMap\\(11) OOP (Applications)\\Utility Library\\clsUtil.h",
+              "RelativeToolTip": "clsUtil.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-20T07:32:05.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsDate.h",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Desktop\\PROGRAMMING\\Programming Advices RoadMap\\(11) OOP (Applications)\\Utility Library\\clsDate.h",
+              "RelativeDocumentMoniker": "clsDate.h",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Desktop\\PROGRAMMING\\Programming Advices RoadMap\\(11) OOP (Applications)\\Utility Library\\clsDate.h",
+              "RelativeToolTip": "clsDate.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-20T07:30:43.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Desktop\\PROGRAMMING\\Programming Advices RoadMap\\(11) OOP (Applications)\\Utility Library\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Desktop\\PROGRAMMING\\Programming Advices RoadMap\\(11) OOP (Applications)\\Utility Library\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-20T07:21:57.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

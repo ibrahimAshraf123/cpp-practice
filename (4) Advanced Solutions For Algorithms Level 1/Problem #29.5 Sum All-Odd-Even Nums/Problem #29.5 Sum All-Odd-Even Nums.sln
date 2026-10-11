@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem #29.5 Sum All-Odd-Even Nums", "Problem #29.5 Sum All-Odd-Even Nums\Problem #29.5 Sum All-Odd-Even Nums.vcxproj", "{D1079915-5CF0-4473-A705-07CC70C851AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1079915-5CF0-4473-A705-07CC70C851AD}.Debug|x64.ActiveCfg = Debug|x64
+		{D1079915-5CF0-4473-A705-07CC70C851AD}.Debug|x64.Build.0 = Debug|x64
+		{D1079915-5CF0-4473-A705-07CC70C851AD}.Debug|x86.ActiveCfg = Debug|Win32
+		{D1079915-5CF0-4473-A705-07CC70C851AD}.Debug|x86.Build.0 = Debug|Win32
+		{D1079915-5CF0-4473-A705-07CC70C851AD}.Release|x64.ActiveCfg = Release|x64
+		{D1079915-5CF0-4473-A705-07CC70C851AD}.Release|x64.Build.0 = Release|x64
+		{D1079915-5CF0-4473-A705-07CC70C851AD}.Release|x86.ActiveCfg = Release|Win32
+		{D1079915-5CF0-4473-A705-07CC70C851AD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBD0101A-9C38-4DA6-A5DE-9C7F714FFD26}
+	EndGlobalSection
+EndGlobal
